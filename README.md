@@ -1,8 +1,11 @@
 # CV
 
 Papakostoulis Antonios
+
 p14papa1@ionio.gr
+
 Larisa, Greece
+
 
 Education:
 ----------

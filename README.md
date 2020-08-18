@@ -16,7 +16,7 @@ Notable Degrees in Courses
 *      Artificial Intelligence: 10
 *      Advanced Networks: 9
 *      Decision Support Systems: 9
-*      Strategy & Managment of Information system: 8	
+*      Strategy & Managment of Information system: 9	
       
       
 Skills:

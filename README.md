@@ -12,7 +12,7 @@ Education:
 2014- Started studying Computer Science in Ionian University (Corfu)
 
 
-Notable Degrees in Courses
+**Notable Degrees in Courses**
 *      Artificial Intelligence: 10
 *      Advanced Networks: 9
 *      Decision Support Systems: 9

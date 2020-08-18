@@ -21,7 +21,7 @@ Notable Degrees in Courses
       
 Skills:
 -------
-* Languages: Greece (native), English (c2)
+* Languages: Greece (native), English (C2)
 * Programming Languages: Basic knowledge of C, C++ and Python.
 
 Hobbies:

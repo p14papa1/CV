@@ -26,5 +26,5 @@ Skills:
 
 Hobbies:
 -------
-As of 2015 I'm a football referee curently on regional games at Larisa, Greece. I love travelling, running, watching football, basketball, series, movies, I also enjoy a good video games.
+As of 2015 I'm a football referee curently on regional games at Larisa, Greece. I love travelling, running, watching football, basketball, series, movies, I also enjoy good video games.
 
